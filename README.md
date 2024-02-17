@@ -15,4 +15,4 @@ This has two activities:
 
    - Something about the above blog.
 
-Thanks for spending time on evaluating this task, awaiting for your valuable feedback. Thnak you 
+Thanks for spending time on evaluating this task, awaiting for your valuable feedback. Thank you 
